@@ -34,4 +34,4 @@ for k in range(1000):
 a.sort()
 print(a)
 print(main())
-print(f"{(time.time() - start)} миллисекунд")
+print(f"Время работы программы: {(time.time() - start)} миллисекунд")
