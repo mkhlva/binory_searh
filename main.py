@@ -1,6 +1,9 @@
+#developer Mikhailov. A
+
 import time
 from random import randint
 start = time.time()
+
 def main():
     try:
         if binsearch(a, x):
